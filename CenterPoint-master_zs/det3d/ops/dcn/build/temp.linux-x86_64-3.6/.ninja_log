@@ -1,0 +1,9 @@
+# ninja log v5
+0	9047	1649411015	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	9602f4032a85a628
+70	10509	1649660454960979330	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	9602f4032a85a628
+7	10190	1649660810834357493	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	9602f4032a85a628
+6	9922	1649661155488838876	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	9602f4032a85a628
+3	10414	1649661721319087522	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	9602f4032a85a628
+9	10966	1649662446493796169	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	9602f4032a85a628
+9	18940	1649662454465323394	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda.o	a5f3166d953bbd5d
+5	9782	1649662585529813331	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	9602f4032a85a628

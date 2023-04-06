@@ -1,0 +1,5 @@
+# ninja log v5
+1	1490	1649410959	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_kernel.o	726bb501cf52308c
+0	10649	1649410968	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_cpu.o	a60d77740f437357
+1	10833	1649410968	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms.o	5acbd9e6604aff2e
+1	14921	1649410972	/media/data/zs/project/detection3D/github/CenterPoint-master/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_api.o	74ea14b8df09b593
